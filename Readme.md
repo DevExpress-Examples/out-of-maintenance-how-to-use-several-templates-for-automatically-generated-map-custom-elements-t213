@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/MapCustomElementSettings/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MapCustomElementSettings/MainWindow.xaml))**
+* [MainWindow.xaml.cs](./CS/MapCustomElementSettings/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/MapCustomElementSettings/MainWindow.xaml))
+<!-- default file list end -->
 # How to use several templates for automatically generated map custom elements
 
 
