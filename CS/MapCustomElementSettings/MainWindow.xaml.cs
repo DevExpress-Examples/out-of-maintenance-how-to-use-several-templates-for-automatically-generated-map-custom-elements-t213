@@ -43,7 +43,6 @@ namespace MapCustomElementSettings {
             Disaster disaster = item as Disaster;
             if (disaster == null) return base.SelectTemplate(item, container);
 
-            MapCustomElement element = container as MapCustomElement;
             switch (disaster.Type) {
                 case "Air Raids": return AirRaidsDataTemplate;
                 case "Bushfires": return BushfiresDataTemplate;
